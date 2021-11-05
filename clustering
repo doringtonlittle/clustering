@@ -1,17 +1,17 @@
 {
   "levels": [
-    { "ceiling": 8, "clusteringDistance": 100000 },
-    { "ceiling": 9, "clusteringDistance": 6840 },
-    { "ceiling": 10, "clusteringDistance": 3420 },
-    { "ceiling": 11, "clusteringDistance": 1728 },
-    { "ceiling": 12, "clusteringDistance": 864 },
-    { "ceiling": 13, "clusteringDistance": 432 },
-    { "ceiling": 14, "clusteringDistance": 216 },
-    { "ceiling": 15, "clusteringDistance": 108 },
-    { "ceiling": 16, "clusteringDistance": 53 },
-    { "ceiling": 17, "clusteringDistance": 26 },
-    { "ceiling": 18, "clusteringDistance": 13 },
-    { "ceiling": 19, "clusteringDistance": 6 },
+    { "ceiling": 8, "clusteringDistance": 10000 },
+    { "ceiling": 9, "clusteringDistance": 3200 },
+    { "ceiling": 10, "clusteringDistance": 1500 },
+    { "ceiling": 11, "clusteringDistance": 850 },
+    { "ceiling": 12, "clusteringDistance": 400 },
+    { "ceiling": 13, "clusteringDistance": 200 },
+    { "ceiling": 14, "clusteringDistance": 100 },
+    { "ceiling": 15, "clusteringDistance": 50 },
+    { "ceiling": 16, "clusteringDistance": 25 },
+    { "ceiling": 17, "clusteringDistance": 13 },
+    { "ceiling": 18, "clusteringDistance": 7 },
+    { "ceiling": 19, "clusteringDistance": 3 },
     { "ceiling": 25, "clusteringDistance": 1 }
   ]
 }
